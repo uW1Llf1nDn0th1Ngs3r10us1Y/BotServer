@@ -138,7 +138,7 @@
 							}                                   
 						}                  
 						else{  							
-						exitClient(fd,&readfds, fd_array,&num_clients);     /* A client is leaving */
+						exitClient(fd,&readfds, fd_array,&num_clients); 
 						}
 			}
 		}
